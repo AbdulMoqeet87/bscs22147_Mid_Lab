@@ -1,17 +1,19 @@
 
-import Navbar from './components/Navbar';
-import SearchBar from './components/SearchBar';
+// import Navbar from './components/Navbar';
+// import SearchBar from './components/SearchBar';
 
-import MovieList from './components/MovieList';
+// import MovieList from './components/MovieList';
 
-function Hom()
-{
+// function Hom()
+// {
+//     return(
+// <>
+//     <Navbar/>
+//     <SearchBar/>
+//     <MovieList/>
+// </>
+// )
+// }
 
-<>
-    <Navbar/>
-    <SearchBar/>
-    <MovieList/>
-</>
-}
 
-export default  Hom;
+// export default  Hom;
